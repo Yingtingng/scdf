@@ -22,6 +22,18 @@ Requirements:
 
 1. [Short description](#short-description)
 1. [Demo video](#demo-video)
+1. [The architecture](#the-architecture)
+1. [Long description](#long-description)
+1. [Project roadmap (OPTIONAL)](#project-roadmap)
+1. [Getting started](#getting-started)
+1. [Running the tests](#running-the-tests)
+1. [Live demo](#live-demo)
+1. [Built with](#built-with)
+1. [Contributing](#contributing)
+1. [Versioning](#versioning)
+1. [Authors](#authors)
+1. [License](#license)
+1. [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -32,3 +44,20 @@ Requirements:
 ### The idea
 
 ## Demo video
+
+[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+
+## The architecture
+
+*** INSERT ARCHITECTURE IMAGE ***
+
+1. lorem ipsum
+2. lorem ipsum
+3. lorem ipsum
+4. lorem ipsum
+
+## Long description
+
+[More detail is available here](DESCRIPTION.md)
+
+## Project roadmap (OPTIONAL)

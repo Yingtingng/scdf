@@ -72,6 +72,8 @@ print('hello world')
 
 #### Training Data
 
+Using the available data on [air temperature, rainfall and relative humidity](training dataset)
+
 *Limitations:*  
 *- Insufficient data on daily air temperature, rainfall, relative humidity and wind speed to accrately train machine learning model* 
 *- Insufficient data on vegetation fire occurrence (Date/Time/Location) to accurately train machine learning model*

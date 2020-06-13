@@ -72,7 +72,7 @@ print('hello world')
 
 #### Training Data
 
-Using the available data on [air temperature, rainfall and relative humidity](/prediction_training_dataset) retrieved from [Data.gov.sg](https://data.gov.sg) and mock vegetation fire data (estimated using news reports), train Watson Machine Learning model to identify patterns of vegetation fire data.
+Using the available data on [air temperature, rainfall and relative humidity](/prediction_training_dataset) retrieved from [Data.gov.sg](https://data.gov.sg) and mock vegetation fire data (estimated using news reports), a Watson Machine Learning model is trained to identify correlation between weather patterns and vegetation fire occurences.
 
 *Limitations:*  
 *- Insufficient data on daily air temperature, rainfall, relative humidity and wind speed to accrately train machine learning model*  
@@ -90,7 +90,7 @@ These are the following APIs that will provide Watson Machine Learning with the 
 
 ### Identification using Watson Machine Learning 
 
-Using prediction data, Airborne Early Warning Device (AEWD) [or just Patrol Drone] will be deployed according to probability of vegetation fire.
+Using prediction data, Airborne Early Warning Device (AEWD) [or just Patrol Drone] will be deployed according to probability of vegetation fire. Integrating Watson Machine Learning and the onboard sensors, HD camera and thermal imager, the AEWD is trained to identify areas with potential for vegetation fire occurence,  
 
 #### Training Data
 

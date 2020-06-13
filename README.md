@@ -90,10 +90,27 @@ These are the following APIs that will provide Watson Machine Learning with the 
 
 ### Identification using Watson Machine Learning 
 
-Using prediction data, Airborne Early Warning Device (AEWD) [or just Patrol Drone] will be deployed according to probability of vegetation fire. Integrating Watson Machine Learning and the onboard sensors, HD camera and thermal imager, the AEWD is trained to identify areas with potential for vegetation fire occurence,  
+Using prediction data, Airborne Early Warning Device (AEWD) [or just Patrol Drone] will be deployed according to probability of vegetation fire. Integrating Watson Machine Learning and onboard sensors, HD camera and thermal imager, the AEWD is able to identify areas with potential for vegetation fire occurence, early signs of vegetation fire such as smoke, and undetected vegetation fire deep in the vegetation.
 
 #### Training Data
 
+Training image for dry vegetation identification on HD camera.  
+*** INSERT DRONE IMAGES (dry vegetation)***  
+
+Training image for dry vegetation identification on thermal imager.  
+*** INSERT DRONE IMAGES (dry vegetation thermal)***  
+
+Training image for smoke identification on HD camera.  
+*** INSERT DRONE IMAGES (smoke)***  
+
+Training image for smoke identification on thermal imager.  
+*** INSERT DRONE IMAGES (smoke thermal)***  
+
+Training image for small vegetation identification on HD camera.  
+*** INSERT DRONE IMAGES (small vegetation fire)***  
+
+Training image for small vegetation identification on thermal imager.  
+*** INSERT DRONE IMAGES (small vegetation fire thermal)***  
 
 ## Running the Tests (OPTIONAL)
 

@@ -72,7 +72,7 @@ print('hello world')
 
 #### Training Data
 
-Using the available data on [air temperature, rainfall and relative humidity](/prediction_training_dataset) retrieved from [data.gov.sg](https://data.gov.sg).
+Using the available data on [air temperature, rainfall and relative humidity](/prediction_training_dataset) retrieved from [Data.gov.sg](https://data.gov.sg) and mock vegetation fire data (estimated using news reports), train Watson Machine Learning model to identify patterns of vegetation fire data.
 
 *Limitations:*  
 *- Insufficient data on daily air temperature, rainfall, relative humidity and wind speed to accrately train machine learning model* 
@@ -80,7 +80,10 @@ Using the available data on [air temperature, rainfall and relative humidity](/p
 
 #### Live Prediction
 
+Once deployed, realtime weather readings across Singapore can be retrieved using APIs from [Data.gov.sg](https://data.gov.sg) to continue training the machine learning model to adapt to realistic scenarios.
 
+These are the following APIs that will provide Watson Machine Learning with the realtime data:
+- [Air Temperature across Singapore](https://data.gov.sg/dataset/realtime-weather-readings?resource_id=17494bed-23e9-4b3b-ae89-232f87987163)
 
 ### Identification using Watson Machine Learning 
 

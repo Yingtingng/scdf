@@ -61,9 +61,9 @@ Requirements:
 
 ## Getting started (IMPOSSIBLE)
 
-'''bash
-print('hello world'
-'''
+```bash
+print('hello world')
+```
 
 ## Running the tests (OPTIONAL)
 

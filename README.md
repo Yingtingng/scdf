@@ -65,6 +65,12 @@ Requirements:
 print('hello world')
 ```
 
+### Prediction using Watson Machine Learning and AutoAI
+
+#### Training Data
+
+### Identification using Watson Machine Learning 
+
 ## Running the tests (OPTIONAL)
 
 ## Live demo

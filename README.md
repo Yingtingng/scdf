@@ -26,6 +26,7 @@ Requirements:
 1. [Long description](#long-description)
 1. [Project roadmap (OPTIONAL)](#project-roadmap)
 1. [Getting started](#getting-started)
+1. [Method](#Method)
 1. [Running the tests (OPTIONAL)](#running-the-tests)
 1. [Live demo (OPTIONAL)](#live-demo)
 1. [Built with](#built-with)
@@ -65,13 +66,19 @@ Requirements:
 print('hello world')
 ```
 
+## Method
+
 ### Prediction using Watson Machine Learning and AutoAI
 
 #### Training Data
 
-*Limitations: Insufficient data on vegetation fire occurrence (Date/Time/Location) to train machine learning model
+
+
+*Limitations: 
+* - Insufficient data on vegetation fire occurrence (Date/Time/Location) to train machine learning model
 
 #### Live Prediction
+
 
 
 ### Identification using Watson Machine Learning 

@@ -84,6 +84,9 @@ Once deployed, realtime weather readings across Singapore can be retrieved using
 
 These are the following APIs that will provide Watson Machine Learning with the realtime data:
 - [Air Temperature across Singapore](https://data.gov.sg/dataset/realtime-weather-readings?resource_id=17494bed-23e9-4b3b-ae89-232f87987163)
+- [Rainfall across Singapore](https://data.gov.sg/dataset/realtime-weather-readings?resource_id=8bd37e06-cdd7-4ca4-9ad8-5754eb70a33d)
+- [Relative Humidity across Singapore](https://data.gov.sg/dataset/realtime-weather-readings?resource_id=59eb2883-2ceb-4d16-85f0-7e3a3176ef46)
+- [Wind Speed across Singapore](https://data.gov.sg/dataset/realtime-weather-readings?resource_id=16035f22-37b4-4a5c-b024-ca2381f11b48)
 
 ### Identification using Watson Machine Learning 
 

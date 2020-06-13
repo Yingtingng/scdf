@@ -72,7 +72,7 @@ print('hello world')
 
 #### Training Data
 
-Using the available data on [air temperature, rainfall and relative humidity](training dataset)
+Using the available data on [air temperature, rainfall and relative humidity](/prediction_training_dataset)
 
 *Limitations:*  
 *- Insufficient data on daily air temperature, rainfall, relative humidity and wind speed to accrately train machine learning model* 

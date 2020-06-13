@@ -88,6 +88,8 @@ These are the following APIs that will provide Watson Machine Learning with the 
 - [Relative Humidity across Singapore](https://data.gov.sg/dataset/realtime-weather-readings?resource_id=59eb2883-2ceb-4d16-85f0-7e3a3176ef46)
 - [Wind Speed across Singapore](https://data.gov.sg/dataset/realtime-weather-readings?resource_id=16035f22-37b4-4a5c-b024-ca2381f11b48)
 
+In order to enhance predictive capabilities, accurate weather forecasts can be retrieved from IBM's Weather Company through the [Weather Company Data API](https://twcservice.mybluemix.net/rest-api/?cm_mc_uid=37684228856315685703470&cm_mc_sid_50200000=51294231592077646327&_ga=2.32643646.1059871242.1591976735-1932570688.1591976735)
+
 ### Identification using Watson Machine Learning 
 
 Using prediction data, Airborne Early Warning Device (AEWD) [or just Patrol Drone] will be deployed according to probability of vegetation fire. Integrating Watson Machine Learning and onboard sensors, HD camera and thermal imager, the AEWD is able to identify areas with potential for vegetation fire occurence, early signs of vegetation fire such as smoke, and undetected vegetation fire deep in the vegetation.

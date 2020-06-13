@@ -69,6 +69,11 @@ print('hello world')
 
 #### Training Data
 
+*Limitations: Insufficient data on vegetation fire occurrence (Date/Time/Location) to train machine learning model
+
+#### Live Prediction
+
+
 ### Identification using Watson Machine Learning 
 
 ## Running the tests (OPTIONAL)

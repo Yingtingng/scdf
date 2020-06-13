@@ -26,8 +26,8 @@ Requirements:
 1. [Long description](#long-description)
 1. [Project roadmap (OPTIONAL)](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
-1. [Live demo](#live-demo)
+1. [Running the tests (OPTIONAL)](#running-the-tests)
+1. [Live demo (OPTIONAL)](#live-demo)
 1. [Built with](#built-with)
 
 ## Short description
@@ -59,3 +59,12 @@ Requirements:
 
 *** INSERT ROADMAP IMAGE ***
 
+## Getting started (IMPOSSIBLE)
+
+## Running the tests (OPTIONAL)
+
+## Live demo
+
+## Built with
+
+* [IBM Cloud]

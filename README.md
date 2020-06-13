@@ -74,7 +74,7 @@ print('hello world')
 
 
 
-*Limitations:*
+*Limitations:*  
 *- Insufficient data on vegetation fire occurrence (Date/Time/Location) to train machine learning model*
 
 #### Live Prediction

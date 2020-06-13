@@ -20,3 +20,15 @@ Requirements:
 
 ## Contents
 
+1. [Short description](#short-description)
+1. [Demo video](#demo-video)
+
+## Short description
+
+### What's the problem?
+
+### How can technology help?
+
+### The idea
+
+## Demo video

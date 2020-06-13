@@ -20,30 +20,30 @@ Requirements:
 
 ## Contents
 
-1. [Short description](#short-description)
-1. [Demo video](#demo-video)
-1. [The architecture](#the-architecture)
-1. [Long description](#long-description)
-1. [Project roadmap (OPTIONAL)](#project-roadmap)
-1. [Getting started](#getting-started)
-1. [Method](#Method)
-1. [Running the tests (OPTIONAL)](#running-the-tests)
-1. [Live demo (OPTIONAL)](#live-demo)
+1. [Short Description](#short-description)
+1. [Demo Video](#demo-video)
+1. [The Architecture](#the-architecture)
+1. [Long Description](#long-description)
+1. [Project Roadmap (OPTIONAL)](#project-roadmap)
+1. [Getting Started](#getting-started)
+1. [Method (place under long description???)](#Method)
+1. [Running the Tests (OPTIONAL)](#running-the-tests)
+1. [Live Demo (OPTIONAL)](#live-demo)
 1. [Built with](#built-with)
 
-## Short description
+## Short Description
 
 ### What's the problem?
 
 ### How can technology help?
 
-### The idea
+### The Idea
 
-## Demo video
+## Demo Video
 
 [![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
-## The architecture
+## The Architecture
 
 *** INSERT ARCHITECTURE IMAGE ***
 
@@ -52,21 +52,21 @@ Requirements:
 3. lorem ipsum
 4. lorem ipsum
 
-## Long description
+## Long Description
 
 [More detail is available here](DESCRIPTION.md)
 
-## Project roadmap (OPTIONAL)
+## Project Roadmap (OPTIONAL)
 
 *** INSERT ROADMAP IMAGE ***
 
-## Getting started (IMPOSSIBLE)
+## Getting Started (IMPOSSIBLE)
 
 ```bash
 print('hello world')
 ```
 
-## Method
+## Method (place under long description???)
 
 ### Prediction using Watson Machine Learning and AutoAI
 
@@ -90,9 +90,14 @@ These are the following APIs that will provide Watson Machine Learning with the 
 
 ### Identification using Watson Machine Learning 
 
-## Running the tests (OPTIONAL)
+Using prediction data, Airborne Early Warning Device (AEWD) [or just Patrol Drone] will be deployed according to probability of vegetation fire.
 
-## Live demo
+#### Training Data
+
+
+## Running the Tests (OPTIONAL)
+
+## Live Demo
 
 ## Built with
 

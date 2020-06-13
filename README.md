@@ -72,10 +72,9 @@ print('hello world')
 
 #### Training Data
 
-
-
 *Limitations:*  
-*- Insufficient data on vegetation fire occurrence (Date/Time/Location) to train machine learning model*
+*- Insufficient data on daily air temperature, rainfall, relative humidity and wind speed to accrately train machine learning model* 
+*- Insufficient data on vegetation fire occurrence (Date/Time/Location) to accurately train machine learning model*
 
 #### Live Prediction
 

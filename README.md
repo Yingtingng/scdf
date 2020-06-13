@@ -1,10 +1,10 @@
 # JJ111 SUBMISSION NAME
 
 Team Members:
-- Benjamin Neo
-- Charles Lim
-- Shi Qi
-- Ying Ting
+- Benjamin Neo Ser Teng
+- Charles Lim Jia Le
+- Koh Shi Qi
+- Ng Ying Ting
 
 Requirements:
 - short description of team members and team name

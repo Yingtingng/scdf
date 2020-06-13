@@ -75,7 +75,7 @@ print('hello world')
 Using the available data on [air temperature, rainfall and relative humidity](/prediction_training_dataset) retrieved from [Data.gov.sg](https://data.gov.sg) and mock vegetation fire data (estimated using news reports), train Watson Machine Learning model to identify patterns of vegetation fire data.
 
 *Limitations:*  
-*- Insufficient data on daily air temperature, rainfall, relative humidity and wind speed to accrately train machine learning model* 
+*- Insufficient data on daily air temperature, rainfall, relative humidity and wind speed to accrately train machine learning model*  
 *- Insufficient data on vegetation fire occurrence (Date/Time/Location) to accurately train machine learning model*
 
 #### Live Prediction

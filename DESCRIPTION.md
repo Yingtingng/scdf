@@ -1,14 +1,11 @@
 # Submission name
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
 
-Mauris odio ante, rhoncus et varius vel, vulputate et enim. Aliquam erat volutpat. Proin lacinia libero velit, a dictum sapien ultricies quis. Vivamus dolor nibh, efficitur in ipsum vitae, faucibus eleifend felis. Praesent consectetur turpis sit amet lorem tempor cursus. Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
 
-[Project website](https://code-and-response.github.io/Project-Sample/)
+## Auto AI 
+(Prediction of fires)
 
-## Section 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
 
 ### Subsection 1.1
 
@@ -18,10 +15,23 @@ Mauris odio ante, rhoncus et varius vel, vulputate et enim. Aliquam erat volutpa
 
 Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
 
+## Machine Learning 
+
+### Early detection
+
+From research, we found out a few signs of a fire - smoke, sparks, fire hazards such as cigarette buds. Hence we took the following steps to create our model:
+1. Upload sample photos of early stages of a fire onto Cloud Annotations. 
+2. Created a Watson Machine Learning (WML) instance
+3. Trained out model using TensorFlow and Keras to identify fires
+4. Imported the training model onto WML
+
+Further steps to deploy such a project:
+5. Sync the drones used for patrol to Cloud Annotations, which will take pictures periodically and upload them on cloud
+6. If images have been detected to fall under the "fire" category, it will send warning messages to SCDF
+7. SCDF will immediately deploy its members to fight the fire
+
 ## Conclusion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
 
 ### Results
 
-Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
